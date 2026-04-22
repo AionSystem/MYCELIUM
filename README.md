@@ -2,7 +2,7 @@
 
 **「菌丝」— The Mesh That Verifies**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXXX)
+[![DOI](https://zenodo.org/badge/1217525259.svg)](https://doi.org/10.5281/zenodo.19688042)
 [![License](https://img.shields.io/badge/License-Sovereign%20IP%20Reserved-8B0000)](./LICENSE)
 
 ---
