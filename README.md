@@ -4,27 +4,24 @@
 
 **「菌丝」— The Mesh That Verifies**
 
-[![DOI](https://zenodo.org/badge/1217525259.svg)](https://doi.org/10.5281/zenodo.19688042)
-[![License](https://img.shields.io/badge/License-Sovereign%20IP%20Reserved-8B0000)](./LICENSE)
-![ORCID](https://img.shields.io/badge/ORCID-0009--0005--8057--5115-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8057-5115)
-![NICE](https://img.shields.io/badge/NICE-Institute%20Partner%20Network-003366?logoColor=white)](https://github.com/AionSystem)
-![NICE](https://img.shields.io/badge/NICE-Yangtze%20Delta%20Node-003366?logoColor=white)](https://github.com/AionSystem)
-![FSVE](https://img.shields.io/badge/FSVE-v4.0%20%7C%20M--STRONG%20%7C%20EV%200.813-4B0082?logoColor=white)](https://github.com/AionSystem/FSVE)
-![FORGE](https://img.shields.io/badge/FORGE-v1.0%20%7C%20CERTIFIED%20VALID-8B0000?logoColor=white)](https://github.com/AionSystem/FORGE)
-![STP](https://img.shields.io/badge/STP-v1.0%20%7C%20SHA--256%20BOUND-00457C?logoColor=white)](https://github.com/AionSystem/STP)
-![PRAXIS](https://img.shields.io/badge/PRAXIS-v0.7%20%7C%20CLEAR-2F4F4F?logoColor=white)](https://github.com/AionSystem/PRAXIS)
-![FA](https://img.shields.io/badge/Functional--Architecture-v4.0%20%7C%20ACTIVE-1B1B1B?logoColor=white)](https://github.com/AionSystem)
-![MUMON](https://img.shields.io/badge/MUMON-v1.0%20%7C%20SOVEREIGN%20COMMS-5C4033?logoColor=white)](https://github.com/AionSystem)
-![SECURITY](https://img.shields.io/badge/SECURITY-v1.0%20%7C%20INVIOLABLE-1A3A1A?logoColor=white)](https://github.com/AionSystem)
-![DSAP](https://img.shields.io/badge/DSAP-v1.1%20%7C%20DEEP%20SEMANTIC-2C3E50?logoColor=white)](https://github.com/AionSystem)
-![VUP](https://img.shields.io/badge/VUP-v1.0%20%7C%20VERSION%20PROTOCOL-34495E?logoColor=white)](https://github.com/AionSystem)
-![CSCA](https://img.shields.io/badge/CSCA-v0.1%20%7C%20SHA--256%20AS%20MUSIC-4A235A?logoColor=white)](https://github.com/AionSystem)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19688042.svg)](https://doi.org/10.5281/zenodo.19688042)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--8057--5115-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8057-5115)
+[![License](https://img.shields.io/badge/License-Sovereign%20IP%20Reserved-8B0000?logoColor=white)](./LICENSE)
+[![NICE](https://img.shields.io/badge/NICE-Institute%20Partner%20Network-003366?logoColor=white)](https://github.com/AionSystem)
+[![NICE](https://img.shields.io/badge/NICE-Yangtze%20Delta%20Node-003366?logoColor=white)](https://github.com/AionSystem)
+[![FSVE](https://img.shields.io/badge/FSVE-v4.0%20%7C%20M--STRONG%20%7C%20EV%200.813-4B0082?logoColor=white)](https://github.com/AionSystem/FSVE)
+[![FORGE](https://img.shields.io/badge/FORGE-v1.0%20%7C%20CERTIFIED%20VALID-8B0000?logoColor=white)](https://github.com/AionSystem/FORGE)
+[![STP](https://img.shields.io/badge/STP-v1.0%20%7C%20SHA--256%20BOUND-00457C?logoColor=white)](https://github.com/AionSystem/STP)
+[![PRAXIS](https://img.shields.io/badge/PRAXIS-v0.7%20%7C%20CLEAR-2F4F4F?logoColor=white)](https://github.com/AionSystem/PRAXIS)
+[![FA](https://img.shields.io/badge/Functional--Architecture-v4.0%20%7C%20ACTIVE-1B1B1B?logoColor=white)](https://github.com/AionSystem)
+[![MUMON](https://img.shields.io/badge/MUMON-v1.0%20%7C%20SOVEREIGN%20COMMS-5C4033?logoColor=white)](https://github.com/AionSystem)
+[![SECURITY](https://img.shields.io/badge/SECURITY-v1.0%20%7C%20INVIOLABLE-1A3A1A?logoColor=white)](https://github.com/AionSystem)
+[![DSAP](https://img.shields.io/badge/DSAP-v1.1%20%7C%20DEEP%20SEMANTIC-2C3E50?logoColor=white)](https://github.com/AionSystem)
+[![VUP](https://img.shields.io/badge/VUP-v1.0%20%7C%20VERSION%20PROTOCOL-34495E?logoColor=white)](https://github.com/AionSystem)
+[![CSCA](https://img.shields.io/badge/CSCA-v0.1%20%7C%20SHA--256%20AS%20MUSIC-4A235A?logoColor=white)](https://github.com/AionSystem)
 [![Status](https://img.shields.io/badge/Status-SPECIFICATION%20COMPLETE-2E7D32?logoColor=white)](https://github.com/AionSystem)
-![TRL](https://img.shields.io/badge/TRL-5%20%7C%20Mesh%20Router-FF6F00?logoColor=white)](https://github.com/AionSystem)
-![TRL](https://img.shields.io/badge/TRL-6%20%7C%20FSVE%20%7C%20STP%20%7C%20EDS-1565C0?logoColor=white)
-](https://github.com/AionSystem)
-![License](https://img.shields.io/badge/License-Sovereign%20IP%20Reserved-8B0000?logoColor=white)](./LICENSE)
-
+[![TRL](https://img.shields.io/badge/TRL-5%20%7C%20Mesh%20Router-FF6F00?logoColor=white)](https://github.com/AionSystem)
+[![TRL](https://img.shields.io/badge/TRL-6%20%7C%20FSVE%20%7C%20STP%20%7C%20EDS-1565C0?logoColor=white)](https://github.com/AionSystem)
 
 ---
 
@@ -261,7 +258,7 @@ All frameworks, engines, and architectural components are original intellectual 
 | Registration | Identifier |
 |--------------|------------|
 | ORCID | [0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115) |
-| Zenodo DOI (this repository) | [10.5281/zenodo.XXXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXXX) |
+| Zenodo DOI (this repository) | [10.5281/zenodo.19688042](https://doi.org/10.5281/zenodo.19688042) |
 | AION Constitutional Stack | [10.5281/zenodo.18941392](https://doi.org/10.5281/zenodo.18941392) |
 | CERTUS Engine v2.5.3 | [10.5281/zenodo.19373724](https://doi.org/10.5281/zenodo.19373724) |
 | AXIOM Methodology | [10.5281/zenodo.19409946](https://doi.org/10.5281/zenodo.19409946) |
@@ -540,8 +537,8 @@ This repository constitutes registered intellectual property of Sheldon K. Salmo
 
 | Field | Value |
 |-------|-------|
-| DOI Registered | 10.5281/zenodo.XXXXXXXXX |
-| ORCID | 0009-0005-8057-5115 |
+| DOI Registered | [10.5281/zenodo.19688042](https://doi.org/10.5281/zenodo.19688042) |
+| ORCID | [0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115) |
 | Ownership | Complete — unencumbered |
 | Institutional Claims | None |
 | Corporate Co-ownership | None |
@@ -587,7 +584,7 @@ MYCELIUM v2 — 「菌丝」— The Mesh That Verifies
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 FORGE v1.0 CERTIFIED VALID  |  EV 0.71  |  COUNCIL UNANIMOUS
 FSVE v4.0 M-STRONG  |  EV 0.813  |  75+ FCL ENTRIES
-DOI: 10.5281/zenodo.XXXXXXXXX  |  ORCID: 0009-0005-8057-5115
+DOI: 10.5281/zenodo.19688042  |  ORCID: 0009-0005-8057-5115
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 "Every package inspected. Every postmark sealed. No unverified output ever exits."
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -600,4 +597,3 @@ DOI: 10.5281/zenodo.XXXXXXXXX  |  ORCID: 0009-0005-8057-5115
 **Status:** SPECIFICATION COMPLETE — FORGE CERTIFIED VALID
 **Authors:** Sheldon K. Salmon & ALBEDO
 **Next:** Phase 1 Entity Establishment (Month 1–2)
-
