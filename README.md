@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="1000010033" src="https://github.com/user-attachments/assets/dfec4fe8-0416-4866-8368-6f03a7559448" />
+
 # MYCELIUM v2 — Distributed AI Verification Infrastructure
 
 **「菌丝」— The Mesh That Verifies**
