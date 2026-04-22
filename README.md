@@ -6,6 +6,25 @@
 
 [![DOI](https://zenodo.org/badge/1217525259.svg)](https://doi.org/10.5281/zenodo.19688042)
 [![License](https://img.shields.io/badge/License-Sovereign%20IP%20Reserved-8B0000)](./LICENSE)
+![ORCID](https://img.shields.io/badge/ORCID-0009--0005--8057--5115-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8057-5115)
+![NICE](https://img.shields.io/badge/NICE-Institute%20Partner%20Network-003366?logoColor=white)](https://github.com/AionSystem)
+![NICE](https://img.shields.io/badge/NICE-Yangtze%20Delta%20Node-003366?logoColor=white)](https://github.com/AionSystem)
+![FSVE](https://img.shields.io/badge/FSVE-v4.0%20%7C%20M--STRONG%20%7C%20EV%200.813-4B0082?logoColor=white)](https://github.com/AionSystem/FSVE)
+![FORGE](https://img.shields.io/badge/FORGE-v1.0%20%7C%20CERTIFIED%20VALID-8B0000?logoColor=white)](https://github.com/AionSystem/FORGE)
+![STP](https://img.shields.io/badge/STP-v1.0%20%7C%20SHA--256%20BOUND-00457C?logoColor=white)](https://github.com/AionSystem/STP)
+![PRAXIS](https://img.shields.io/badge/PRAXIS-v0.7%20%7C%20CLEAR-2F4F4F?logoColor=white)](https://github.com/AionSystem/PRAXIS)
+![FA](https://img.shields.io/badge/Functional--Architecture-v4.0%20%7C%20ACTIVE-1B1B1B?logoColor=white)](https://github.com/AionSystem)
+![MUMON](https://img.shields.io/badge/MUMON-v1.0%20%7C%20SOVEREIGN%20COMMS-5C4033?logoColor=white)](https://github.com/AionSystem)
+![SECURITY](https://img.shields.io/badge/SECURITY-v1.0%20%7C%20INVIOLABLE-1A3A1A?logoColor=white)](https://github.com/AionSystem)
+![DSAP](https://img.shields.io/badge/DSAP-v1.1%20%7C%20DEEP%20SEMANTIC-2C3E50?logoColor=white)](https://github.com/AionSystem)
+![VUP](https://img.shields.io/badge/VUP-v1.0%20%7C%20VERSION%20PROTOCOL-34495E?logoColor=white)](https://github.com/AionSystem)
+![CSCA](https://img.shields.io/badge/CSCA-v0.1%20%7C%20SHA--256%20AS%20MUSIC-4A235A?logoColor=white)](https://github.com/AionSystem)
+[![Status](https://img.shields.io/badge/Status-SPECIFICATION%20COMPLETE-2E7D32?logoColor=white)](https://github.com/AionSystem)
+![TRL](https://img.shields.io/badge/TRL-5%20%7C%20Mesh%20Router-FF6F00?logoColor=white)](https://github.com/AionSystem)
+![TRL](https://img.shields.io/badge/TRL-6%20%7C%20FSVE%20%7C%20STP%20%7C%20EDS-1565C0?logoColor=white)
+](https://github.com/AionSystem)
+![License](https://img.shields.io/badge/License-Sovereign%20IP%20Reserved-8B0000?logoColor=white)](./LICENSE)
+
 
 ---
 
