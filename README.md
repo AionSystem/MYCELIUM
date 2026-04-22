@@ -3,10 +3,6 @@
 **「菌丝」— The Mesh That Verifies**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXXX)
-[![FORGE](https://img.shields.io/badge/FORGE-v1.0-CERTIFIED%20VALID-8B0000)](https://github.com/AionSystem/FORGE)
-[![FSVE](https://img.shields.io/badge/FSVE-v4.0-M--STRONG%20EV%200.813-4B0082)](https://github.com/AionSystem/FSVE)
-[![PRAXIS](https://img.shields.io/badge/PRAXIS-v0.7-CLEAR-2F4F4F)](https://github.com/AionSystem/PRAXIS)
-[![FA](https://img.shields.io/badge/FUNCTIONAL--ARCHITECTURE-v4.0-ACTIVE-1B1B1B)](https://github.com/AionSystem/FUNCTIONAL-ARCHITECTURE)
 [![License](https://img.shields.io/badge/License-Sovereign%20IP%20Reserved-8B0000)](./LICENSE)
 
 ---
